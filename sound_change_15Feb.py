@@ -1,5 +1,7 @@
-#Andrea Ceolin
-#February 2019
+'''
+@Andrea Ceolin
+February 2019
+'''
 
 import random
 from collections import defaultdict, Counter
