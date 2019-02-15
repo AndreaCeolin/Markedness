@@ -1,6 +1,6 @@
 '''
 @Andrea Ceolin
-February 2019
+-February 2019
 '''
 
 import random
